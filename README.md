@@ -61,6 +61,26 @@ Node App - bamazonCustomer.js
    * This means updating the SQL database to reflect the remaining quantity.
    * Once the update goes through, show the customer the total cost of their purchase.
 
-- - -
+#Built With
+SQL Database
+
+NPM Packages:
+
+* MySQL
+
+* DotEnv
+
+* Inquirer
+
+#Version
+1.0.0
+
+#Authors
+Angela D. Johnson
+
+Additional Contributors: Trilogy
+
+#Acknowledgments
+Some code used was originally authored by Trilogy's GT Coding Boot Camp.
 
 **Good Luck!**
